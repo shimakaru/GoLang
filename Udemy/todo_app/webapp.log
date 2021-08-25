@@ -1,0 +1,13 @@
+2021/08/22 13:38:17 users.go:91: table sessions has no column named create_at
+2021/08/22 13:42:19 users.go:91: table sessions has no column named create_at
+2021/08/23 18:48:36 route_auth.go:41: sql: no rows in result set
+2021/08/23 19:04:34 route_main.go:11: {5 befe7a14-03cc-11ec-a6b8-acde48001122 test@gmail.com 3 2021-08-23 13:44:05.420656 +0900 +0900}
+2021/08/23 19:04:34 route_main.go:22: {5 befe7a14-03cc-11ec-a6b8-acde48001122 test@gmail.com 3 2021-08-23 13:44:05.420656 +0900 +0900}
+2021/08/23 19:06:39 route_main.go:12: {5 befe7a14-03cc-11ec-a6b8-acde48001122 test@gmail.com 3 2021-08-23 13:44:05.420656 +0900 +0900}
+2021/08/23 19:06:39 route_main.go:23: {5 befe7a14-03cc-11ec-a6b8-acde48001122 test@gmail.com 3 2021-08-23 13:44:05.420656 +0900 +0900}
+2021/08/23 19:07:37 route_main.go:21: {5 befe7a14-03cc-11ec-a6b8-acde48001122 test@gmail.com 3 2021-08-23 13:44:05.420656 +0900 +0900}
+2021/08/23 19:07:37 route_main.go:21: {5 befe7a14-03cc-11ec-a6b8-acde48001122 test@gmail.com 3 2021-08-23 13:44:05.420656 +0900 +0900}
+2021/08/23 19:07:37 route_main.go:21: {5 befe7a14-03cc-11ec-a6b8-acde48001122 test@gmail.com 3 2021-08-23 13:44:05.420656 +0900 +0900}
+2021/08/23 19:08:27 route_main.go:21: {5 befe7a14-03cc-11ec-a6b8-acde48001122 test@gmail.com 3 2021-08-23 13:44:05.420656 +0900 +0900}
+2021/08/23 19:08:28 route_main.go:21: {5 befe7a14-03cc-11ec-a6b8-acde48001122 test@gmail.com 3 2021-08-23 13:44:05.420656 +0900 +0900}
+2021/08/23 19:08:28 route_main.go:21: {5 befe7a14-03cc-11ec-a6b8-acde48001122 test@gmail.com 3 2021-08-23 13:44:05.420656 +0900 +0900}
